@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment_II_Matrix_Calculation_MPI", "Assignment_II_Matrix_Calculation_MPI\Assignment_II_Matrix_Calculation_MPI.vcxproj", "{DD16DA1B-5133-48DB-9AB3-A479A5609282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD16DA1B-5133-48DB-9AB3-A479A5609282}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DD16DA1B-5133-48DB-9AB3-A479A5609282}.Debug|Win32.Build.0 = Debug|Win32
+		{DD16DA1B-5133-48DB-9AB3-A479A5609282}.Release|Win32.ActiveCfg = Release|Win32
+		{DD16DA1B-5133-48DB-9AB3-A479A5609282}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
